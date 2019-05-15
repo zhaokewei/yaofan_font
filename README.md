@@ -29,4 +29,4 @@ npm run lint
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ### WEBSITE
-https://github.com/zhaokewei/yaofan_font.git
+http://yaofan.zhaokewei.com
