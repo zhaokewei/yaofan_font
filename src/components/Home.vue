@@ -7,7 +7,7 @@
         <div class="begimg-block">
             <img class="begimg" src="../assets/beg.jpg">
         </div>
-        <div>美女帅哥，行行好，给点饭钱吧！</div>
+        <div>美女帅哥，行行好，给点饭钱吧！我已经忘记米饭的味道了！</div>
     </div>
 </template>
 
